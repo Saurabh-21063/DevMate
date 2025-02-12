@@ -4,6 +4,8 @@
 POST /login
 POST /signup
 POST /logout
+
+
 ![Image](https://github.com/user-attachments/assets/6ee4194b-730b-4208-8ad9-94dfcde5c283)
 
 # profile router
@@ -18,6 +20,8 @@ PATCH /profile/password
 
 POST /request/send/:status/:userId     -> ignoring (left swipe) / sending (right swipe) connection request 
 POST /request/view/:status/:requestId  -> accepting/rejecting the connection request received from other users
+
+
 
 ![Image](https://github.com/user-attachments/assets/aa5f02a3-b25b-4c2f-8198-db9922cf3310)
 
