@@ -4,6 +4,7 @@
 POST /login
 POST /signup
 POST /logout
+![Image](https://github.com/user-attachments/assets/6ee4194b-730b-4208-8ad9-94dfcde5c283)
 
 # profile router
 
