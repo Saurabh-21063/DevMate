@@ -11,6 +11,8 @@ GET /profile/view
 PATCH /profile/edit
 PATCH /profile/password
 
+![Image](https://github.com/user-attachments/assets/dfd6eba0-f134-46ff-bf25-0ccb5ed1f7a0)
+
 # connection router
 
 POST /request/send/:status/:userId     -> ignoring (left swipe) / sending (right swipe) connection request 
